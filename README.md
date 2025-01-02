@@ -92,14 +92,6 @@ An image of a chessboard.
 - Add a graphical user interface (GUI) for ease of use.
 - Support video input for real-time move suggestions.
 
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue to discuss your ideas.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgments
 
 - [YOLO](https://github.com/ultralytics/yolov5) for object detection.
